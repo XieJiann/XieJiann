@@ -1,7 +1,6 @@
 ### Hi︿(￣︶￣)︿ This is XieJian! 👋  
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jianxie0@gmail.com)
 
-I am XieJian and I am currently finishing my Computer Engineering Master degree at the NanJing University!  
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Master Degree  
