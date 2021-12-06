@@ -4,18 +4,15 @@
 
 Welcome to my Github page! I am XieJian and I am currently finishing my Computer Engineering Master degree at the NanJing University!  
 
-[![xiejian's github](https://github-readme-stats.vercel.app/api?username=xiejiann&count_private=true)]()
+[![XieJiann's GitHub stats](https://github-readme-stats.vercel.app/api?username=XieJiann&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiejiann)](https://github.com/anuraghazra/github-readme-stats)
+
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Master Degree  
 - Try build a Joader for deep learning
 
-#### :computer: Programming languages and tools: 
-<p>
-<code><img width="2%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="2%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="2%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"></code>
-<code><img width="2%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-</p>
+
 
 
 
