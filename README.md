@@ -6,7 +6,7 @@ Welcome to my Github page! I am XieJian and I am currently finishing my Computer
 
 [![XieJiann's GitHub stats](https://github-readme-stats.vercel.app/api?username=XieJiann&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiejiann&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiejiann&hide=html,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Master Degree  
