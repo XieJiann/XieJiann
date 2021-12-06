@@ -4,7 +4,7 @@
 
 Welcome to my Github page! I am XieJian and I am currently finishing my Computer Engineering Master degree at the NanJing University!  
 
-[![xiejian's github](https://github-readme-stats.vercel.app/api?username=xiejiann?&count_private=true)]()
+[![xiejian's github](https://github-readme-stats.vercel.app/api?username=xiejiann&count_private=true)]()
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Master Degree  
 - Try build a Joader for deep learning
