@@ -11,7 +11,6 @@ Welcome to my Github page! I am XieJian and I am currently finishing my Computer
 
 #### :computer: Programming languages and tools: 
 <p>
-<img width="30%" align="right" src="https://github-readme-stats.vercel.app/api?username=XieJiann&show_icons=true&hide_border=true" />
 <code><img width="2%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="2%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="2%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"></code>
